@@ -1,6 +1,6 @@
 [
     {
-        "Name":"BootsBoard",
+        "Name":"Sports Shoes",
         "Description":"lorenm ipsum dolor sit amet,consectetuer adipiscing elit.",
         "Price":200,
         "PictureUrl":"images/products/sb-ang1.png",
@@ -8,19 +8,197 @@
         "ProductBrandId":1
     },
     {
-        "Name":" Green Hat",
-        "Description":"lorenm ipsum dolor sit amet,consectetuer adipiscing elit.",
+        "Name":"Regular Cap",
+        "Description":"lorenm ipsum dolor sit amet,consectetuer adipiscing elit.", 
         "Price":150,
         "PictureUrl":"images/products/sb-ang2.png",
         "ProductTypeId":2,
-        "ProductBrandId":2
+        "ProductBrandId":5
     },
     {
         "Name":"Core Board Speed Rush 3",
         "Description":"lorenm ipsum dolor sit amet,consectetuer adipiscing elit.",
         "Price":100,
-        "PictureUrl":"images/products/sb-ang1.png",
+        "PictureUrl":"images/products/sb-ang3.png",
         "ProductTypeId":1,
         "ProductBrandId":3
+    },
+
+    {
+        "Name":"Protection Gloves",
+        "Description":"lorenm ipsum dolor sit amet,consectetuer adipiscing elit.",
+        "Price":199,
+        "PictureUrl":"images/products/sb-ang6.png",
+        "ProductTypeId":5,
+        "ProductBrandId":5
+    },
+    {
+        "Name":"Cors Gloves",
+        "Description":"lorenm ipsum dolor sit amet,consectetuer adipiscing elit.",
+        "Price":199,
+        "PictureUrl":"images/products/sb-ang7.png",
+        "ProductTypeId":5,
+        "ProductBrandId":5
+    },
+    {
+        "Name":"Sports Cap",
+        "Description":"lorenm ipsum dolor sit amet,consectetuer adipiscing elit.",
+        "Price":159,
+        "PictureUrl":"images/products/sb-ang8.png",
+        "ProductTypeId":2,
+        "ProductBrandId":5
+    },
+    {
+        "Name":"Sports Shoes",
+        "Description":"lorenm ipsum dolor sit amet,consectetuer adipiscing elit.",
+        "Price":200,
+        "PictureUrl":"images/products/sb-ang9.png",
+        "ProductTypeId":3,
+        "ProductBrandId":1
+    },
+    {
+        "Name":"Casual Shoes",
+        "Description":"lorenm ipsum dolor sit amet,consectetuer adipiscing elit.",
+        "Price":200,
+        "PictureUrl":"images/products/sb-ang10.png",
+        "ProductTypeId":3,
+        "ProductBrandId":1
+    },
+    {
+        "Name":"Denim Jacket",
+        "Description":"lorenm ipsum dolor sit amet,consectetuer adipiscing elit.",
+        "Price":455,
+        "PictureUrl":"images/products/product1.jpg",
+        "ProductTypeId":4,
+        "ProductBrandId":4
+    },
+    {
+        "Name":"Drak Jacket",
+        "Description":"lorenm ipsum dolor sit amet,consectetuer adipiscing elit.",
+        "Price":429,
+        "PictureUrl":"images/products/product2.jpg",
+        "ProductTypeId":4,
+        "ProductBrandId":4
+    },
+    {
+        "Name":"Jacket with T-Shirt",
+        "Description":"lorenm ipsum dolor sit amet,consectetuer adipiscing elit.",
+        "Price":466,
+        "PictureUrl":"images/products/product3.jpg",
+        "ProductTypeId":4,
+        "ProductBrandId":4
+    },
+    {
+        "Name":"levies Jacket",
+        "Description":"lorenm ipsum dolor sit amet,consectetuer adipiscing elit.",
+        "Price":499,
+        "PictureUrl":"images/products/product4.jpeg",
+        "ProductTypeId":4,
+        "ProductBrandId":4
+    },
+    {
+        "Name":"Hover Board",
+        "Description":"lorenm ipsum dolor sit amet,consectetuer adipiscing elit.",
+        "Price":1099,
+        "PictureUrl":"images/products/product6.jpeg",
+        "ProductTypeId":1,
+        "ProductBrandId":3
+    },
+    {
+        "Name":"Cobra Style Board",
+        "Description":"lorenm ipsum dolor sit amet,consectetuer adipiscing elit.",
+        "Price":1100,
+        "PictureUrl":"images/products/product7.jpeg",
+        "ProductTypeId":1,
+        "ProductBrandId":3
+    },
+    {
+        "Name":"Hover Board2",
+        "Description":"lorenm ipsum dolor sit amet,consectetuer adipiscing elit.",
+        "Price":799,
+        "PictureUrl":"images/products/product8.jpeg",
+        "ProductTypeId":1,
+        "ProductBrandId":3
+    },
+    {
+        "Name":"Tyson Running Shoes",
+        "Description":"lorenm ipsum dolor sit amet,consectetuer adipiscing elit.",
+        "Price":399,
+        "PictureUrl":"images/products/product9.jpeg",
+        "ProductTypeId":3,
+        "ProductBrandId":1
+    },
+    {
+        "Name":"Asian-Prime Shoes",
+        "Description":"lorenm ipsum dolor sit amet,consectetuer adipiscing elit.",
+        "Price":1990,
+        "PictureUrl":"images/products/product10.jpeg",
+        "ProductTypeId":3,
+        "ProductBrandId":1
+    },
+    {
+        "Name":"WWE Cap",
+        "Description":"lorenm ipsum dolor sit amet,consectetuer adipiscing elit.", 
+        "Price":159,
+        "PictureUrl":"images/products/product11.jpeg",
+        "ProductTypeId":2,
+        "ProductBrandId":5
+    },
+    {
+        "Name":"US Army Cap",
+        "Description":"lorenm ipsum dolor sit amet,consectetuer adipiscing elit.", 
+        "Price":199,
+        "PictureUrl":"images/products/product12.jpeg",
+        "ProductTypeId":2,
+        "ProductBrandId":5
+    },
+    {
+        "Name":"NY Cap",
+        "Description":"lorenm ipsum dolor sit amet,consectetuer adipiscing elit.", 
+        "Price":159,
+        "PictureUrl":"images/products/product13.jpeg",
+        "ProductTypeId":2,
+        "ProductBrandId":5
+    },
+    {
+        "Name":"Casual Shirt",
+        "Description":"lorenm ipsum dolor sit amet,consectetuer adipiscing elit.", 
+        "Price":150,
+        "PictureUrl":"images/products/product14.jpeg",
+        "ProductTypeId":6,
+        "ProductBrandId":2
+    },
+    {
+        "Name":"BlueChecks Shirt",
+        "Description":"lorenm ipsum dolor sit amet,consectetuer adipiscing elit.", 
+        "Price":199,
+        "PictureUrl":"images/products/product15.jpg",
+        "ProductTypeId":6,
+        "ProductBrandId":2
+    },
+    {
+        "Name":"Red Shirt",
+        "Description":"lorenm ipsum dolor sit amet,consectetuer adipiscing elit.", 
+        "Price":259,
+        "PictureUrl":"images/products/product16.jpg",
+        "ProductTypeId":6,
+        "ProductBrandId":2
+    },
+    {
+        "Name":"Red-checks Shirt",
+        "Description":"lorenm ipsum dolor sit amet,consectetuer adipiscing elit.", 
+        "Price":559,
+        "PictureUrl":"images/products/product17.jpg",
+        "ProductTypeId":6,
+        "ProductBrandId":2
+    },
+    {
+        "Name":"plane Shirt",
+        "Description":"lorenm ipsum dolor sit amet,consectetuer adipiscing elit.", 
+        "Price":149,
+        "PictureUrl":"images/products/product18.jpg",
+        "ProductTypeId":6,
+        "ProductBrandId":2
     }
+
 ]

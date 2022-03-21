@@ -1,0 +1,13 @@
+<div class="card h-100 shadow-sm">
+   <img src="{{product.pictureUrl}}" alt="{{product.name}}" class="img-fluid">
+    <div class="card-body d-flex flex-column" style="text-align:center">
+        <a href="#">
+            <h6 class="text-uppercase">{{product.name}}</h6>
+        </a>
+        <span class="mt-3">Price:{{product.price | currency}}</span>
+        <div class="btn-group mt-auto">
+          <button type="button" class="btn  btn-outline-secondary fa fa-shopping-cart mr-2" style="margin-right: 15px;"></button>
+          <button type="button" class="btn  btn-outline-secondary">View</button>
+        </div>
+    </div>
+  </div>

@@ -5,12 +5,25 @@
     },
     {
         "Id":2,
-        "Name":"Hat"
+        "Name":"Caps"
     },
     {
         "Id":3,
         "Name":"Boots"
+    },
+    {
+        "Id":4,
+        "Name":"Jackets"
+    },
+    {
+        "Id":5,
+        "Name":"Gloves"
+    },
+    {
+        "Id":6,
+        "Name":"Shirts"
     }
+    
     
 
 ]
