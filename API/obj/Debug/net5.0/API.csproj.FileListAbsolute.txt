@@ -73,3 +73,16 @@ D:\demo\skinet\API\bin\Debug\net5.0\System.IO.Pipelines.dll
 D:\demo\skinet\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
 D:\demo\skinet\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
 D:\demo\skinet\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\demo\skinet\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\demo\skinet\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\demo\skinet\API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\demo\skinet\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\demo\skinet\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\demo\skinet\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\demo\skinet\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\demo\skinet\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\demo\skinet\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\demo\skinet\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\demo\skinet\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\demo\skinet\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\demo\skinet\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
