@@ -4,7 +4,6 @@ D:\demo\skinet\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
 D:\demo\skinet\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
 D:\demo\skinet\Infrastructure\bin\Debug\net5.0\Core.dll
 D:\demo\skinet\Infrastructure\bin\Debug\net5.0\Core.pdb
-D:\demo\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.csprojAssemblyReference.cache
 D:\demo\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
 D:\demo\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
 D:\demo\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
@@ -13,3 +12,4 @@ D:\demo\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplet
 D:\demo\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
 D:\demo\skinet\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
 D:\demo\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
+D:\demo\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
